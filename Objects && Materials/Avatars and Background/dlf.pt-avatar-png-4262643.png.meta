@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: 363dd978b50347e44a0f643aefdf8f03
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dlf.pt-avatar-png-4262643_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 132
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184b2e2e87982a74784d98b8b07cf842
+      internalID: -2115252107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-avatar-png-4262643_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 376
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3313bb99d0e98fe4a82f6ae57f4fd0a2
+      internalID: -2073486833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-avatar-png-4262643_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 366
+        width: 133
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89111e2bd1dbef246a8a31bbd849aabd
+      internalID: -1502121322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-avatar-png-4262643_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3098d73d33c230f46a46b04f90f235f9
+      internalID: 1236398515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-avatar-png-4262643_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 186
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c7d8f6b7749ac41a1132ac0fe49965
+      internalID: -988354233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-avatar-png-4262643_19
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 188
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52bcb0a39537a04597f6136d5cd1df0
+      internalID: -679562200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-avatar-png-4262643_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8702d7952be734548974d2bbba9e4dc8
+      internalID: -1005605799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-avatar-png-4262643_27
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba4ec5ce4a86404dabc6548020cf3ff
+      internalID: 1770072506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dlf.pt-avatar-png-4262643_28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 133
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03daf06136072f540a1d2642742e6fcd
+      internalID: -324346836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a222d9a7f5bf24446a23e7768a4ba8e9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dlf.pt-avatar-png-4262643_0: -2115252107
+      dlf.pt-avatar-png-4262643_1: -2073486833
+      dlf.pt-avatar-png-4262643_10: 881764847
+      dlf.pt-avatar-png-4262643_11: 1236398515
+      dlf.pt-avatar-png-4262643_12: 168243012
+      dlf.pt-avatar-png-4262643_13: 1926824573
+      dlf.pt-avatar-png-4262643_14: -903008960
+      dlf.pt-avatar-png-4262643_15: 1947847426
+      dlf.pt-avatar-png-4262643_16: 1712102041
+      dlf.pt-avatar-png-4262643_17: -635632580
+      dlf.pt-avatar-png-4262643_18: -988354233
+      dlf.pt-avatar-png-4262643_19: -679562200
+      dlf.pt-avatar-png-4262643_2: 1073601485
+      dlf.pt-avatar-png-4262643_20: -445409832
+      dlf.pt-avatar-png-4262643_21: 359558359
+      dlf.pt-avatar-png-4262643_22: -2059210188
+      dlf.pt-avatar-png-4262643_23: -407015646
+      dlf.pt-avatar-png-4262643_24: -1003244353
+      dlf.pt-avatar-png-4262643_25: -1005605799
+      dlf.pt-avatar-png-4262643_26: 2062467594
+      dlf.pt-avatar-png-4262643_27: 1770072506
+      dlf.pt-avatar-png-4262643_28: -324346836
+      dlf.pt-avatar-png-4262643_3: -1502121322
+      dlf.pt-avatar-png-4262643_4: 1763196917
+      dlf.pt-avatar-png-4262643_5: 524980756
+      dlf.pt-avatar-png-4262643_6: 711487925
+      dlf.pt-avatar-png-4262643_7: -2112318786
+      dlf.pt-avatar-png-4262643_8: 1875642358
+      dlf.pt-avatar-png-4262643_9: -822826475
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

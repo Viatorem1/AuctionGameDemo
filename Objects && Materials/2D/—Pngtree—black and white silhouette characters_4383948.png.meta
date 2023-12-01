@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 5cc46a4c736e1e04c89ef252b8749f95
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014black and white silhouette characters_4383948_1"
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 2837
+        width: 427
+        height: 1049
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6627de0a070f21b438a294f57f38d1ed
+      internalID: 1638887926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014black and white silhouette characters_4383948_8"
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2788
+        width: 422
+        height: 1039
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d84a779f136519439d01bce8bac3577
+      internalID: -44458754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014black and white silhouette characters_4383948_29"
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1697
+        width: 298
+        height: 1003
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f83b077bd153f34da2ee1897a788d84
+      internalID: -925257922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014black and white silhouette characters_4383948_31"
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1664
+        width: 389
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa430074161312419b93044329f6980
+      internalID: -1022917614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014black and white silhouette characters_4383948_59"
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 419
+        width: 374
+        height: 1098
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e347b6f4b363d489eb8166d79b51b7
+      internalID: 674979033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014black and white silhouette characters_4383948_61"
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 419
+        width: 339
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385c5ad031eb4704c85c1d88238045e9
+      internalID: 1909365050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1ba33f958435de949959e23710f241fb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_0": -1185495560
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_1": 1638887926
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_10": -1226283896
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_11": 214937990
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_12": -1400501440
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_13": 1561467957
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_14": 390805563
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_15": -1209127593
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_16": -1369957107
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_17": 786096862
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_18": 1075880244
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_19": -1069570557
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_2": 1813024847
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_20": -942947067
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_21": 1592243265
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_22": 508877844
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_23": 1156334325
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_24": 1537352681
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_25": 442057983
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_26": -253226949
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_27": 884204133
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_28": -1623047400
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_29": -925257922
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_3": -674978075
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_30": -1668828135
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_31": -1022917614
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_32": -1151434640
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_33": 1857802158
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_34": -611537070
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_35": 1049375244
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_36": -410263196
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_37": 333124239
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_38": 341739252
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_39": -1008588190
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_4": 1585457740
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_40": 490169069
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_41": -1070662753
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_42": 602862654
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_43": 611108702
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_44": 1109720786
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_45": -212222304
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_46": -1226566995
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_47": -113399324
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_48": -1578309123
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_49": -206742298
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_5": 1253132694
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_50": -2060889223
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_51": -1417031141
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_52": -1148033536
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_53": -635292479
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_54": -742639909
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_55": 440388420
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_56": -185468333
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_57": 1952169802
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_58": -2040343550
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_59": 674979033
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_6": -1638773123
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_60": -76189001
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_61": 1909365050
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_62": -1759711252
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_63": 950528318
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_64": -598804373
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_65": -1507599074
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_66": 528154917
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_67": 1731649167
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_68": 1789304554
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_69": 1745273181
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_7": 27051780
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_70": -33193565
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_71": 1296082192
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_72": -833016561
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_73": 1650272699
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_74": -1445302011
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_75": -1261558644
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_76": 20727570
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_77": 86610777
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_78": -2042754445
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_79": -55276012
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_8": -44458754
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_80": 2141577215
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_81": -1440913425
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_82": -839872395
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_83": 1708492132
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_84": -1062360979
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_85": -289928676
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_86": 45685705
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_87": 1103136615
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_88": -1370552993
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_89": -1669006843
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_9": 783119738
+      "\u2014Pngtree\u2014black and white silhouette characters_4383948_90": -378544350
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
